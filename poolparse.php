@@ -2,19 +2,6 @@
 <?php
 
 
-/*
-T1A - Amateur Radio Service: purpose and permissible use of the Amateur Radio Service; operator/primary station license grant; where FCC rules are codified; basis and purpose of FCC rules; meanings 
-of basic terms used in FCC rules; interference; spectrum management
-
-T1A01 (C) [97.1]
-Which of the following is a purpose of the Amateur Radio Service as stated in the FCC rules and regulations?
-A. Providing personal radio communications for as many citizens as possible
-B. Providing communications for international non-profit organizations
-C. Advancing skills in the technical and communication phases of the radio art
-D. All of these choices are correct 
-~~
-
-*/
 $charm=array("\xa0","\x92","\x93","\x94","\x96");
 $charr=array(" ","'","\"","\"","-");
 $elements=array();
